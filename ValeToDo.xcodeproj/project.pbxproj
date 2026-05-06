@@ -22,9 +22,22 @@
 		583666252FAB43B500CB2ED6 /* ValeToDo */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ValeToDo; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
+		583666342FAB9FB900CB2ED6 /* Exceptions for "ValeToDo" folder in "Compile Sources" phase from "ValeToDo" target */ = {
+			isa = PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet;
+			buildPhase = 583666212FAB43B500CB2ED6 /* Sources */;
+			membershipExceptions = (
+				README.md,
+			);
+		};
+/* End PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		583666272FAB43B500CB2ED6 /* ValeToDo */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				583666342FAB9FB900CB2ED6 /* Exceptions for "ValeToDo" folder in "Compile Sources" phase from "ValeToDo" target */,
+			);
 			path = ValeToDo;
 			sourceTree = "<group>";
 		};
